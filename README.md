@@ -1,6 +1,10 @@
 
 > 有好用的工具可以投稿到这https://github.com/CuriousLearnerDev/Online_tools/issues/35
-
+> 
+统领工具‮载下‬地址：https://github.com/CuriousLearnerDev/Online_tools
+免费打包离线版下‮地载‬址：
+百‮网度‬盘：https://pan.baidu.com/s/1IcyA2BcUsMCscmzdaDI4fg 提取码：qn5d
+夸克网盘：https://pan.quark.cn/s/a0c97d91a75f 提取码：it2n
 
 
 ## 非常感谢下面的团队和信息安全研究人员的一些工具推荐
